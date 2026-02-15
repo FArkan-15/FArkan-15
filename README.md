@@ -1,25 +1,24 @@
-## Hey there 👋
+# Hello there 👋
 
-I'm Arkan, a vocational high school student majoring in  
-Information Systems, Networking, and Applications.
+I'm **Falih Arkan Al Fathani Rasendriya**  
+Student of *Information Systems, Networking & Applications*  
 
-I build web projects and explore networking & system development.  
-I enjoy turning ideas into real implementations.
+💻 Passionate about Web Development, UI/UX Design, and Server Administration  
+📚 Learning and building projects with HTML, CSS, JavaScript, and basic networking  
+🎯 Always improving my skills and creating useful projects  
 
-My main stack: HTML, CSS, JavaScript, TypeScript, Linux, MikroTik.
+---
 
-I've built:
-- Static and company portfolio websites
-- UI/UX design projects
-- A Proxmox-based homelab (Minecraft server deployment)
+### 🔧 Skills
+- Front-End: HTML, CSS, JavaScript  
+- UI/UX Design basics  
+- Server & Homelab (Proxmox, Linux)  
+- Networking fundamentals
 
-Achievements:
-- 🥉 Bronze Medal – Informatics Olympiad
-- 🥉 Bronze Medal – Mathematics Olympiad
+---
 
-Currently learning:
-- Backend Development
-- DevOps & Server Administration
-- System Architecture
-
-Let's build something great 🚀
+### 📂 Projects
+Check out some of my work:
+- School and personal websites  
+- Responsive front-end projects  
+- Homelab & Minecraft server setup  
