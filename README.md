@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**FArkan-15/FArkan-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Arkan, a vocational high school student majoring in  
+Information Systems, Networking, and Applications.
 
-Here are some ideas to get you started:
+I build web projects and explore networking & system development.  
+I enjoy turning ideas into real implementations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main stack: HTML, CSS, JavaScript, TypeScript, Linux, MikroTik.
+
+I've built:
+- Static and company portfolio websites
+- UI/UX design projects
+- A Proxmox-based homelab (Minecraft server deployment)
+
+Achievements:
+- 🥉 Bronze Medal – Informatics Olympiad
+- 🥉 Bronze Medal – Mathematics Olympiad
+
+Currently learning:
+- Backend Development
+- DevOps & Server Administration
+- System Architecture
+
+Let's build something great 🚀
